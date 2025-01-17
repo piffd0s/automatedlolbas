@@ -23,6 +23,6 @@ file_write_apis = [
     "fclose"
 ]
 
-if those are found they will be logged to a logfile for further analysis. this script can be modified to look for the api calls that you are looking for specifically.
+If those are found they will be logged to a logfile for further analysis. this script can be modified to look for the api calls that you are looking for specifically.
 
-additional work can be done to ensure that web downloads are user controllable as well as file writes.
+Additional work can be done to ensure that web downloads are user controllable as well as file writes.
